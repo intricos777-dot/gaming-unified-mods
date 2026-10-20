@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "EditorRTTI.h"
 
 #if CS_VERSION == CS_VERSION_1_2

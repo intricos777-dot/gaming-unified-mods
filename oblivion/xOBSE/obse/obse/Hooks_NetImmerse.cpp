@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "Hooks_NetImmerse.h"
 #include "NiObjects.h"
 #include "obse_common/SafeWrite.h"

@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #ifndef MO2_GAME_FEATURES_H
 #define MO2_GAME_FEATURES_H
 

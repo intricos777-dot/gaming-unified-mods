@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 /****************************************************************************************
  * Copyright (c) 2007-2010 Bart Cerneels <bart.cerneels@kde.org> *
  *                                                                                      *

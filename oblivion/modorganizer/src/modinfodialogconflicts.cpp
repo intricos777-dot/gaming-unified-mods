@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "modinfodialogconflicts.h"
 #include "modinfodialog.h"
 #include "modinfodialogconflictsmodels.h"

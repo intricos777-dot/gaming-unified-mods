@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "SafeWrite.h"
 void SafeWrite8(UInt32 addr, UInt32 data)
 {

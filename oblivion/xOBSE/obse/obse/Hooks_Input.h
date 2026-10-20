@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #pragma once
 #define DIRECTINPUT_VERSION 0x0800
 #include <dinput.h>

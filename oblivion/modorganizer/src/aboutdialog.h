@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #ifndef ABOUTDIALOG_H
 /*
 Copyright (C) 2014 Sebastian Herbord. All rights reserved.

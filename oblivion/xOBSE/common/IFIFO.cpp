@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "IFIFO.h"
 
 IFIFO::IFIFO(UInt32 length)

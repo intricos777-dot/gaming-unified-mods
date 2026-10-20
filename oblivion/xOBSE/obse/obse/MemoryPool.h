@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 /*-
  * Copyright (c) 2013 Cosku Acay, http://www.coskuacay.com
  *

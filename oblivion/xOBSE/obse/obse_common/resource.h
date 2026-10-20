@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 //{{NO_DEPENDENCIES}}
 // File di inclusione generato con Microsoft Visual C++.
 // Utilizzato da obse_version.rc

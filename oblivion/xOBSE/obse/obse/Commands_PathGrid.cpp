@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "Commands_PathGrid.h"
 #include "ParamInfos.h"
 #include "ScriptUtils.h"

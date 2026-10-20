@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 /* Copyright (C) 2020 G'k
  * Imported by Holt59
  * This Source Code Form is subject to the terms of the Mozilla Public

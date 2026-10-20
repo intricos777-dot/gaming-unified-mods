@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "iconfetcher.h"
 #include "shared/util.h"
 #include "thread_utils.h"

@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "obse_common/SafeWrite.h"
 #include "Hooks_Script.h"
 #include "GameForms.h"

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # Third-Party NOTICE
 
 **This repository is entirely third-party code.** Nothing here was written by

@@ -1,3 +1,4 @@
+<!-- Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work -->
 # **Oblivion Display Tweaks**
   
  Oblivion Display Tweaks started as a port of some [New Vegas Tick Fix](https://github.com/carxt/New-Vegas-Tick-Fix) features to Oblivion.

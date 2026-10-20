@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #pragma once
 
 typedef void * (* _Oblivion_DynamicCast)(void * srcObj, UInt32 arg1, const void * fromType, const void * toType, UInt32 arg4);

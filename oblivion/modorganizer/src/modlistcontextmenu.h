@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #ifndef MODLISTCONTEXTMENU_H
 #define MODLISTCONTEXTMENU_H
 

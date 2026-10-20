@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #pragma once
 
 class OblivionDirect3DDevice9Ex : public IDirect3DDevice9Ex

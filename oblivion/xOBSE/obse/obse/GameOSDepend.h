@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #pragma once
 
 // keeping this in a separate file so we don't need to include dinput/dsound everywhere

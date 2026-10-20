@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #ifndef MODINFOSEPARATOR_H
 #define MODINFOSEPARATOR_H
 

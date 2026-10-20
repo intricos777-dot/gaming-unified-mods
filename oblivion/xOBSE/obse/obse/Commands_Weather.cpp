@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "obse/Commands_Weather.h"
 #include "obse/ParamInfos.h"
 #include "Script.h"

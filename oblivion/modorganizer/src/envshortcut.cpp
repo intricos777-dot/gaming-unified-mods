@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "envshortcut.h"
 #include "env.h"
 #include "executableslist.h"

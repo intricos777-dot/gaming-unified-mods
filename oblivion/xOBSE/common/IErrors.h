@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #pragma once
 
 void _AssertionFailed(const char * file, unsigned long line, const char * desc);

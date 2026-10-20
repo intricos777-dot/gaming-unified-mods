@@ -1,3 +1,4 @@
+// Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 #include "obse/Script.h"
 #include "EditorAPI.h"
 #include "string.h"
